@@ -1,0 +1,3 @@
+﻿{
+  "ConnectionString": "server=(LocalDb)\\mssqllocaldb;Initial Catalog=StarWars;Integrated Security=True;Pooling=False; MultipleActiveResultSets=true"
+}
